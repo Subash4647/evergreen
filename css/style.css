@@ -48,6 +48,16 @@ font-family: 'Rajdhani', sans-serif;
 /* ====================================================
     Gutter Code 
 ==================================================== */
+.about{
+  color: #000;
+}
+.des-h6{
+  color:white;
+}
+.description-1{
+  color: white;
+}
+
 .ltn__no-gutter > [class*='col-'] {
   /* No padding only for child columns */
   padding-right: 0;
