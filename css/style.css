@@ -90,15 +90,15 @@ font-family: 'Rajdhani', sans-serif;
     Normalize    071C1F   0E292D
 ---------------------------------------------------- */
 :root {
-  --ltn__primary-color: #071c1f;
-  --ltn__primary-color-2: #041113;
+  --ltn__primary-color: #26c2da;
+  --ltn__primary-color-2: #48cce0;
   /* Darken */
-  --ltn__primary-color-3: #133236;
+  --ltn__primary-color-3: #36b8c9;
   /* Lighten */
-  --ltn__secondary-color: #e53e29;
+  --ltn__secondary-color: #e43a23;
   --ltn__secondary-color-2: #cb3421;
   /* Darken */
-  --ltn__secondary-color-3: #fb412a;
+  --ltn__secondary-color-3: #cc4c3b;
   /* Lighten */
   --ltn__heading-color: #071c1f;
   --ltn__paragraph-color: #071c1f;
@@ -154,7 +154,7 @@ font-family: 'Rajdhani', sans-serif;
   --ltn__box-shadow-5: 0 8px 16px 0 rgba(93, 93, 93, 0.1);
   /* Common Colors */
   --black: #000000;
-  --black-2: #22355B;
+  --black-2: #3c6ccc;
   --white: #fff;
   --white-2: #F2F6F7;
   --white-3: #e8edee;
