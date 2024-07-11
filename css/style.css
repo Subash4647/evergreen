@@ -102,13 +102,13 @@ font-family: 'Rajdhani', sans-serif;
   /* Lighten */
   --ltn__heading-color: #071c1f;
   --ltn__paragraph-color: #071c1f;
-  --ltn__heading-font: 'Rajdhani', sans-serif;
-  --ltn__body-font: 'Open Sans', sans-serif;
+  --ltn__heading-font: 'script', script;
+  --ltn__body-font: 'monoscript', script;
   /* Footer ACD2D8 8CB2B2  */
-  --ltn__color-1: #006d80de;
-  --ltn__color-2: #ACD2D8;
-  --ltn__color-3: #23bdce;
-  --ltn__color-4: #84A2A6;
+  --ltn__color-1: #170080;
+  --ltn__color-2: #2d0080;
+  --ltn__color-3: #130080;
+  --ltn__color-4: #8001c;
   /* Gradient Colors */
   --gradient-color-1: linear-gradient(90deg, rgba(242,139,194,1) 0%, rgba(216,177,242,1) 50%);
   --gradient-color-2: linear-gradient(to top, rgba(7,28,31,0) 0%, rgba(7,28,31,1) 90%);
@@ -328,7 +328,7 @@ ol li {
     background-color: var(--section-bg-1); }
 
 .section-bg-2 {
-  background-color: #182b63; }
+  background-color: #185e63; }
   .section-bg-2 h1,
   .section-bg-2 h2,
   .section-bg-2 h3,
